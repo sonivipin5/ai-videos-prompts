@@ -1,5 +1,12 @@
 #  Make Viral Outfit Unboxing Reels with AI
 
+# 📌 Table of Contents
+
+- [PROMPT 1 — PRODUCT SHEET](#prompt-1-product-sheet)
+- [PROMPT 2 — PRODUCT SHOWCASE](#prompt-2-product-showcase)
+- [PROMPT 3 — MIRROR FASHION VIDEO](#prompt-3-mirror-fashion-video)
+
+<a id="prompt-1-product-sheet"></a>
 **PROMPT : 1 PRODUCT SHEET**
 
 ```text
@@ -530,6 +537,7 @@ The final image must look like a professional sustainable fashion e-commerce pro
 **
 ```
 
+<a id="prompt-2-product-showcase"></a>
 PROMPT : 2  Product showcase unboxing video**
 
 ```text
@@ -972,6 +980,7 @@ Photorealistic, premium fashion e-commerce advertisement, realistic hands, reali
 **
 ```
 
+<a id="prompt-3-mirror-fashion-video"></a>
 PROMPT : 3 MIRROR FASHION VIDEO**
 
 ```text
